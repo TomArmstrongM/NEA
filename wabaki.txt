@@ -1,0 +1,4 @@
+0001 Wabaki 12 14
+0001 Wabaki 48 17
+0001 Wabaki 72 94
+0001 Wabaki 39 64
